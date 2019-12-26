@@ -21,5 +21,7 @@ layout: home
 
 ### [算法](https://geeeeek.github.io/docs/algorithm)
 
+### [Redis](https://geeeeek.github.io/docs/redis)
+
 
 
