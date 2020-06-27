@@ -20,5 +20,9 @@
 
 ### [Redis](https://geeeeek.github.io/docs/redis)
 
+### [MySQL](https://geeeeek.github.io/docs/mysql)
+
+### [Thrift](https://geeeeek.github.io/docs/thrift)
+
 
 
